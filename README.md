@@ -17,3 +17,6 @@ así que cualquier consejo será bienvenido 😊
 
 Happy coding! 😊🚀
 
+
+![typing-fast](https://github.com/MarjorieMoran-UMG/MarjorieMoran-UMG/assets/79346379/7a9f6d5e-f444-4df1-b9b1-c9fa823216c8)
+
