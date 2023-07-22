@@ -1,5 +1,5 @@
 ### 
-![image](https://github.com/MarjorieMoran-UMG/MarjorieMoran-UMG/assets/79346379/530c99e0-638c-4dcc-89f2-23f06de75518)
+![hola-gatito](https://github.com/MarjorieMoran-UMG/MarjorieMoran-UMG/assets/79346379/c8cff1b1-2a57-430c-8c50-56bc609f0baf)
 
 ¡Hola, amigos/colegas de GitHub! 👋
 
