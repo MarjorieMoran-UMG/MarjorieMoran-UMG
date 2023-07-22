@@ -1,4 +1,7 @@
 ### 
+
+![Marjorie Moran](https://github.com/MarjorieMoran-UMG/MarjorieMoran-UMG/assets/79346379/dda47743-ca62-4a47-b75d-b9fb23a601b4)
+
 ¡Hola, amigos/colegas de GitHub! 👋
 
 💬 Soy Marjorie Moran, una entusiasta del desarrollo de software y un apasionada por la tecnología.
