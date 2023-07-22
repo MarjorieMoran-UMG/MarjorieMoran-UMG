@@ -1,8 +1,8 @@
 ### 
 ![Marjorie Moran (820 × 300 px)](https://github.com/MarjorieMoran-UMG/MarjorieMoran-UMG/assets/79346379/e9a850c4-03a5-4749-b937-392baff69588)
 
-¡Hola, amigos/colegas de GitHub! 👋!
-![Imagen1](https://github.com/MarjorieMoran-UMG/MarjorieMoran-UMG/assets/79346379/ac49020d-bffc-488d-8316-c30bd2a29789)
+![Imagen1](https://github.com/MarjorieMoran-UMG/MarjorieMoran-UMG/assets/79346379/ac49020d-bffc-488d-8316-c30bd2a29789) ¡Hola, amigos/colegas de GitHub! 👋!
+
 
 💬 Soy Marjorie Moran, una entusiasta del desarrollo de software y un apasionada por la tecnología.
 
