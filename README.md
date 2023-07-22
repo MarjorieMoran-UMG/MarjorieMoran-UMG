@@ -1,16 +1,19 @@
-### Hi there 👋
+### ¡Hola, amigos/colegas de GitHub! 👋
 
-<!--
-**MarjorieMoran-UMG/MarjorieMoran-UMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Soy Marjorie Moran, una entusiasta del desarrollo de software y un apasionada por la tecnología.
 
-Here are some ideas to get you started:
+⚡ Mi viaje en el mundo de la programación no hace mucho, pero no he dejado de aprender y crecer en este mundo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Estoy actualmente explorando Desarrollo Web y me encantaría aprender más acerca del tema, 
+así que cualquier consejo será bienvenido 😊
+
+📚 Me gusta compartir conocimiento para ayudar a otros.
+
+🎯 Objetivos Futuros:
+- Seguir mejorando mis habilidades en: Desarrollo Web, Front End, Back End y toda el área creativa.
+- Aprender y adquirir conocimientos todos los días. 
+
+¡Gracias por visitar mi perfil!
+
+Happy coding! 😊🚀
+
