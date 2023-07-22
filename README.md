@@ -1,5 +1,4 @@
 ### 
-
 ¡Hola, amigos/colegas de GitHub! 👋
 
 💬 Soy Marjorie Moran, una entusiasta del desarrollo de software y un apasionada por la tecnología.
