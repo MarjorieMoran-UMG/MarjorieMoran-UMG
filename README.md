@@ -7,8 +7,7 @@
 *💬 Soy Marjorie Moran, una entusiasta del software y apasionada por la tecnología.*
 
 ###
-⚡ Mi viaje en el mundo de la programación no hace mucho, pero no he dejado de aprender y crecer en este mundo. ![Imagen4](https://github.com/MarjorieMoran-UMG/MarjorieMoran-UMG/assets/79346379/84dd91b5-a8b8-4061-b7c0-5207ebad010a)
-
+⚡ Mi viaje en el mundo de la programación no hace mucho, pero no he dejado de aprender y crecer en este mundo. 
 
 🌱 Estoy actualmente explorando Desarrollo Web y me encantaría aprender más acerca del tema, 
 así que cualquier consejo será bienvenido 😊
